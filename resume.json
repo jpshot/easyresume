@@ -1,20 +1,20 @@
 {
     "name": "李卫",
     "birth": "1988.02",
-    "tel": "18616201587",
+    "tel": "①⑧⑥①⑥②〇①⑤⑧⑦",
     "email": "286235179@qq.com",
     "blog": "",
     "avatar": "",
     "pages": [],
     "summaries": [
-        "概述第一行",
-        "概述第二行",
-        "概述第三行",
-        "概述第四行"
+        "熟练 Java、JavaScript、SQL，掌握 JavaEE 应用后端开发",
+        "良好的学习能力和学习热情，善利用文档、Google 解决问题",
+        "代码习惯佳，注重代码的\"可维护性\"和\"可读性\"",
+        "能够将面向对象编程思想和设计模式应用于日常开发"
     ],
     "workExperiences": [
         {
-            "company": "湖南某酒水零售类小型公司",
+            "company": "湖南某酒水零售行业小型公司",
             "post": "维护岗",
             "startDate": "2015.05",
             "endDate": "2017.03",
@@ -32,76 +32,46 @@
     ],
     "projectExperiences": [
         {
-            "projectName": "牛逼的项目",
+            "projectName": "公共自行车租赁后台管理系统",
             "role": "主要开发成员",
-            "startDate": "2015.01",
-            "endDate": "2016.04",
-            "summary": "牛逼项目概述（可以不填）",
+            "startDate": "2017.07",
+            "endDate": "2017.07",
+            "summary": "对车辆购入，维修，出租，报废等过程的信息化管理",
             "details": [
-                "牛逼的项目细节一",
-                "牛逼的项目细节二",
-                "牛逼的项目细节三"
+                "数据库：Oracle；后端框架：SpringMVC、MyBatis；前端：jQuery；版本管理：SVN",
+                "独立完成系统账号权限模块的设计和开发"
             ]
         },
         {
-            "projectName": "牛X的项目",
-            "role": "兼职开发",
-            "startDate": "2015.08",
-            "endDate": "2015.11",
-            "summary": "牛X的项目概述（可不填）",
+            "projectName": "新闻后台管理系统",
+            "role": "独立开发",
+            "startDate": "2017.06",
+            "endDate": "2017.06",
+            "summary": "对新闻后台分类管理的后台管理",
             "details": [
-                "牛X的项目细节一",
-                "牛X的项目细节二"
+                "数据库：MySQL；后端框架：Struts2；前端：jQuery",
+                "完成新闻发布，编辑，查询等后台管理功能"
+            ]
+        },
+        {
+            "projectName": "人事管理系统",
+            "role": "独立开发",
+            "startDate": "2017.06",
+            "endDate": "2017.06",
+            "summary": "C/S 人事管理系统",
+            "details": [
+                "数据库：MySQL；客户端：Java Swing",
+                "完成用户权限和登录，员工/部门管理，局域网聊天等功能"
             ]
         }
     ],
     "sections": [
         {
-            "title": "自定义模块一",
-            "fragments": [
-                {
-                    "name": "自定义模块一之——段落一",
-                    "comment": "副标题（可以缺省）",
-                    "startDate": "开始日期（可缺省）",
-                    "endDate": "结束日期（可缺省）",
-                    "summary": "blablablablabla",
-                    "details": [
-                        "细节1234"
-                    ]
-                },
-                {
-                    "name": "自定义模块一之——段落二",
-                    "comment": "副标题（可以缺省）",
-                    "startDate": "开始日期（可缺省）",
-                    "endDate": "结束日期（可缺省）",
-                    "summary": "blablablablabla",
-                    "details": [
-                        "细节5678"
-                    ]
-                }
-            ]
-        },
-        {
-            "title": "自定义模块二",
-            "fragments": [
-                {
-                    "name": "自定义模块二之段落一",
-                    "comment": "副标题（可以缺省）",
-                    "startDate": "开始日期（可缺省）",
-                    "endDate": "结束日期（可缺省）",
-                    "summary": "blablablablabla",
-                    "details": [
-                        "细节1234"
-                    ]
-                }
-            ]
-        },
-        {
             "title": "自定义模块三",
             "points": [
-                "列表1",
-                "列表2",
-                "列表3"
+                "Java 基础扎实，熟悉 Collection、I/O、JDBC、异常处理、反射机制、JSP/Servlet/Filter",
+                "熟悉 SpringMVC、Struts2、MyBatis 框架，MySQL、Oracle 数据库",
+                "有 Maven、SVN、Git 等工具的使用经验，掌握 Linux 命令行的基本操作"
             ]
         }
     ],
